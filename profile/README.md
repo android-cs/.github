@@ -10,6 +10,7 @@ https://cs.android.com/android/platform/superproject/
 - [android-10](https://github.com/android-cs/10)
 - [android-11](https://github.com/android-cs/11)
 - [android-12](https://github.com/android-cs/12)
+- [android-12.1](https://github.com/android-cs/12.1)
 - [android-13](https://github.com/android-cs/13)
 - [android-14](https://github.com/android-cs/14)
 - [android-15](https://github.com/android-cs/15)
