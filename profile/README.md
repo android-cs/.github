@@ -1,6 +1,6 @@
 # android-cs
 
-https://android.googlesource.com/platform/frameworks/base/+archive/refs/tags/
+https://android.googlesource.com/platform/frameworks/base/+refs
 
 https://cs.android.com/android/platform/superproject/
 
